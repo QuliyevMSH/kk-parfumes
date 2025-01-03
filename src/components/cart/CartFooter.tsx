@@ -17,6 +17,7 @@ const CartFooter = ({
     <div className="border-t p-4 space-y-4 dark:border-gray-700 dark:bg-gray-800">
       <div className="text-sm text-center p-2 bg-gold/10 rounded-md text-gold">
         20 AZN üzəri alışda Bakı <b>(metro)</b> və Sumqayıta <b>(SDU)</b> çatdırılma pulsuzdur !
+        "Hamısını al" düyməsinə basdıqdan sonra sizi sifarişinizin siyahısını göndərə biləcəyiniz WhatsApp söhbətinə yönləndirəcək.
       </div>
       <div className="flex justify-between items-center">
         <span className="font-medium dark:text-white">Cəmi:</span>
