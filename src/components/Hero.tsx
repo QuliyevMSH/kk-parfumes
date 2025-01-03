@@ -23,7 +23,7 @@ const Hero = () => {
         💎 Özünə dəyər verənlər üçün premium ətirlər 💎
         </p>
         <a href="#products" onClick={scrollToProducts} className="btn-primary">
-          Məhsullara bax
+          Məhsullarımız
         </a>
       </div>
     </div>
